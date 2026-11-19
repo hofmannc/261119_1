@@ -1,0 +1,28 @@
+
+    {
+        "@context": "https://w3id.org/codemeta/3.0",
+        "name": "19112026",
+        "@type": "SoftwareSourceCode",
+        "contributor": [          
+            {
+                "@type": "Person",
+                "familyName": "Bauer",
+                "givenName": "Anna"
+            },          
+            {
+                "@type": "Organization",
+                "name": "Ministry of Institute",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "max"
+                }
+            },          
+            {
+                "@id": "1234-4569-7896-2587",
+                "@type": "Person",
+                "familyName": "Dauer",
+                "givenName": "Caesar"
+            }
+        ],
+        "datePublished": "2026-12-03"
+    }
