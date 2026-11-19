@@ -1,0 +1,18 @@
+Wie lautet der Titel des Softwareprojekts?;;Titel vom 19.11.2026
+In welche Anwendungsklasse wird die Software eingeordnet?;;Anwendungsklasse 2: Die Software soll eine langfristige Entwicklung und Wartbarkeit gewährleisten. Sie ist die Grundlage für einen Übergang zum Produktstatus.
+Was ist der beabsichtigte Verwendungszweck der Software? Wie wird Ihre Software zur Forschung beitragen?;;ss
+Welche Funktion hat die neue Software, die bisherige Software nicht abdeckt? Welche verwandte Software gibt es und warum ist diese nicht geeignet?;;ss
+Typ;"Set ""PM""";Person
+Typ;"Set ""Beteiligtes Institut""";Entität
+Typ;"Set ""Reviewer""";Person
+Familienname(n);"Set ""PM""";Bauer
+Familienname(n);"Set ""Reviewer""";Dauer
+Rufname(n);"Set ""PM""";Anna
+Rufname(n);"Set ""Reviewer""";Caesar
+Name;"Set ""Beteiligtes Institut""";Ministry of Institute
+ORCID;"Set ""Reviewer""";1234-4569-7896-2587
+Rolle;"Set ""PM"" Set #1";Projektmanagement
+Rolle;"Set ""Beteiligtes Institut"" Set #1";Leitung
+Affiliation;"Set ""Beteiligtes Institut"" Set #1";max
+Wann beginnt das Softwareprojekt?;;2026-11-20
+Wann endet das Softwareprojekt?;;2026-12-03
