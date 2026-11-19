@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Wie lautet der Titel des Softwareprojekts?",
+    "set": "",
+    "values": "Titel vom 19.11.2026"
+  },
+  {
+    "question": "In welche Anwendungsklasse wird die Software eingeordnet?",
+    "set": "",
+    "values": "Anwendungsklasse 2: Die Software soll eine langfristige Entwicklung und Wartbarkeit gew\u00e4hrleisten. Sie ist die Grundlage f\u00fcr einen \u00dcbergang zum Produktstatus."
+  },
+  {
+    "question": "Was ist der beabsichtigte Verwendungszweck der Software? Wie wird Ihre Software zur Forschung beitragen?",
+    "set": "",
+    "values": "ss"
+  },
+  {
+    "question": "Welche Funktion hat die neue Software, die bisherige Software nicht abdeckt? Welche verwandte Software gibt es und warum ist diese nicht geeignet?",
+    "set": "",
+    "values": "ss"
+  },
+  {
+    "question": "Typ",
+    "set": "Set \"PM\"",
+    "values": "Person"
+  },
+  {
+    "question": "Typ",
+    "set": "Set \"Beteiligtes Institut\"",
+    "values": "Entit\u00e4t"
+  },
+  {
+    "question": "Typ",
+    "set": "Set \"Reviewer\"",
+    "values": "Person"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"PM\"",
+    "values": "Bauer"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"Reviewer\"",
+    "values": "Dauer"
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"PM\"",
+    "values": "Anna"
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"Reviewer\"",
+    "values": "Caesar"
+  },
+  {
+    "question": "Name",
+    "set": "Set \"Beteiligtes Institut\"",
+    "values": "Ministry of Institute"
+  },
+  {
+    "question": "ORCID",
+    "set": "Set \"Reviewer\"",
+    "values": "1234-4569-7896-2587"
+  },
+  {
+    "question": "Rolle",
+    "set": "Set \"PM\" Set #1",
+    "values": "Projektmanagement"
+  },
+  {
+    "question": "Rolle",
+    "set": "Set \"Beteiligtes Institut\" Set #1",
+    "values": "Leitung"
+  },
+  {
+    "question": "Affiliation",
+    "set": "Set \"Beteiligtes Institut\" Set #1",
+    "values": "max"
+  },
+  {
+    "question": "Wann beginnt das Softwareprojekt?",
+    "set": "",
+    "values": "2026-11-20"
+  },
+  {
+    "question": "Wann endet das Softwareprojekt?",
+    "set": "",
+    "values": "2026-12-03"
+  }
+]
