@@ -1,0 +1,14 @@
+
+    cff-version: 1.2.0
+    message: "If you use this software, please cite it as below."
+    title: 19112026
+    type: software
+    authors:        
+        - family-names: Bauer
+          given-names: Anna        
+        - name: "Ministry of Institute"
+          affiliation: "max"        
+        - family-names: Dauer
+          given-names: Caesar
+          orcid: 1234-4569-7896-2587
+    date-released: 2026-12-03
